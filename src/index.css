@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+    font-family: "yekan";
+    src: url("./fonts/IRANYekanWebBlack.ttf") format("woff2");
+    font-weight: 400;
+}
+@theme{
+    --font-sans: "yekan", sans-serif;;
+}
